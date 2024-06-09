@@ -24,8 +24,8 @@ from src.utils.methods import PerformanceMetrics
 warnings.filterwarnings('ignore')
 
 # Execution Constants
-DATA_PATH: str = "/Users/christianimenkamp/Documents/Data-Repository/"
-LOG_NAME: str = "Community/sepsis/Sepsis Cases - Event Log"
+DATA_PATH: str = "data/"
+LOG_NAME: str = "sepsis/Sepsis Cases - Event Log"
 DATASET: pd.DataFrame = pd.read_feather(DATA_PATH + LOG_NAME + ".feather")
 EVALUATION_TIME_IN_SECONDS: int = 60*3
 

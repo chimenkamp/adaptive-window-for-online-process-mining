@@ -15,6 +15,7 @@ from src.utils.plotter import Plotter
 plt.rcParams["figure.autolayout"] = True
 plt.style.use('seaborn-v0_8-darkgrid')
 
+
 # Function to calculate completeness
 def get_completeness(events: List[Dict[str, Any]]) -> float:
     estimator = SpeciesEstimator(partial(retrieve_species_n_gram, n=1), quantify_all=True)
@@ -22,14 +23,14 @@ def get_completeness(events: List[Dict[str, Any]]) -> float:
     estimated: float = getattr(estimator, "completeness_incidence")[0]
     return estimated
 
+
 # Constants
-DATA_PATH: str = "/Users/christianimenkamp/Documents/Data-Repository/"
+DATA_PATH: str = "data/"
 # LOG_NAME: str = "Community/sepsis/Sepsis Cases - Event Log.feather"
 # LOG_NAME: str = "Community/daily_living/activity_log.feather"
 # LOG_NAME: str = "Synthetic/synthetic, online order/online_order.feather"
 # LOG_NAME: str = "Community/bpi-c-2012/BPI_Challenge_2012.feather"
-LOG_NAME: str = "Community/bpi-c-2019/data.feather"
-
+LOG_NAME: str = "sepsis/Sepsis Cases - Event Log.feather"
 
 if __name__ == "__main__":
     df_log: pd.DataFrame = pd.read_feather(DATA_PATH + LOG_NAME)
@@ -50,7 +51,7 @@ if __name__ == "__main__":
     g = perfplot.bench(
         setup=lambda n: event_log[:n],
         kernels=[get_completeness],
-        n_range=list(range(1, min(500, len(event_log)))),
+        n_range=list(range(1, min(550, len(event_log)))),
         equality_check=None,
     )
 
@@ -59,4 +60,4 @@ if __name__ == "__main__":
 
     plotter = Plotter(n, "")
     plotter.add_subplot([("Runtime [s]", t)])
-    plotter.plot(x_label="Number of Events", font_size=28)
+    plotter.plot(x_label="Number of Events", y_label="Runtime [S]", font_size=28)

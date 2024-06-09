@@ -108,8 +108,8 @@ def average_case(df: pd.DataFrame) -> float:
     return average_length
 
 
-DATA_PATH: str = "/Users/christianimenkamp/Documents/Data-Repository/"
-LOG_NAME_A: str = "Community/sepsis/Sepsis Cases - Event Log.feather"
+DATA_PATH: str = "data/"
+LOG_NAME_A: str = "sepsis/Sepsis Cases - Event Log.feather"
 # LOG_NAME: str = "Community/daily_living/activity_log.xes"
 # LOG_NAME: str = "Synthetic/synthetic, online order/online_order.xes"
 LOGS = [
@@ -133,7 +133,7 @@ for i, df in enumerate(dataframes):
 # gradual_drift = create_gradual_drift(dataframes[0], dataframes[1], drift_start=75, drift_end=160)
 incremental_drift = create_incremental_drift(dataframes[0], dataframes[1], dataframes[2:])
 
-SAVE_PATH: str = "/Users/christianimenkamp/Documents/Data-Repository/Concept_Drift/Merged"
+SAVE_PATH: str = "data/Concept_Drift/Merged"
 incremental_drift.to_feather(os.path.join(SAVE_PATH, "incremental_drift_short[bpi-c-2012,bpi-c-2013].feather"))
 incremental_drift.to_csv(os.path.join(SAVE_PATH, "incremental_drift_short[bpi-c-2012,bpi-c-2013,bpi-c-2015,bpi-c-2017,bpi-c-2019].feather].csv"),
                          index=False)

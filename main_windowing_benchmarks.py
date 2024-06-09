@@ -11,14 +11,13 @@ from src.utils.windowing_baseline import TimeBasedTumblingWindow, AbstractWindow
 
 conformance_metrics: List[tuple[int, ConformanceMetrics, tuple[str, str]]] = []
 
-DATA_PATH: str = "/Users/christianimenkamp/Documents/Data-Repository/"
+DATA_PATH: str = "data/"
 # LOG_EVAL_STR: str = "Concept_Drift/Merged/sudden_drift_short[bpi-c-2012,bpi-c-2013,bpi-c-2015].feather"
 
 # LOG_EVAL: pd.DataFrame = pd.read_feather(DATA_PATH + "/Community/bpi-c-2012/data.feather")[0:1000]
 # LOG_EVAL: pd.DataFrame = pd.read_feather(DATA_PATH + "/Community/bpi-c-2013/data.feather")[0:1000]
 # LOG_EVAL: pd.DataFrame = pd.read_feather(DATA_PATH + "/Community/bpi-c-2015/data.feather")[0:1000]
-LOG_EVAL: pd.DataFrame = group_traces_by_case_id_dataframe(
-    pd.read_feather(DATA_PATH + "Community/sepsis/Sepsis Cases - Event Log.feather"))
+LOG_EVAL: pd.DataFrame = pd.read_feather(DATA_PATH + "sepsis/Sepsis Cases - Event Log.feather")[0:1000]
 # LOG_EVAL: pd.DataFrame = pd.read_feather(DATA_PATH + "Synthetic/synthetic, online order/online_order.xes")[0:1000]
 # LOG_EVAL: pd.DataFrame = pd.read_feather(DATA_PATH + "/Community/bpi-c-2015/data.feather")[0:1000]
 # LOG_EVAL: pd.DataFrame = pd.read_feather(DATA_PATH + "/Community/bpi-c-2015/data.feather")[0:1000]
@@ -36,6 +35,10 @@ def on_window(log: List[Dict[str, Any]], index: int) -> None:
     conformance_metrics.append((len(log), metrics, (e_1, e_2)))
 
 
+def print_min_max_avg(lis: List[float]):
+    print("MIN: ", min(lis), "MAX: ", max(lis), "AVG: ", sum(lis) / len(lis))
+
+
 START_AT, STOP_AT = (0, len(LOG_EVAL) - 1)
 COMPLETENESS_THRESHOLD: float = 0.65
 
@@ -46,7 +49,7 @@ COMPLETENESS_THRESHOLD: float = 0.65
 # window: AbstractWindow = LossyCountingWithBudget(0.05, 10, on_window=on_window)
 
 # For LandmarkWindow with landmark = "landmark_event"
-window: AbstractWindow = LandmarkWindow("ER Registration", on_window=on_window)
+# window: AbstractWindow = LandmarkWindow("ER Registration", on_window=on_window)
 
 # For TimeBasedSlidingWindow with window_size = timedelta(conds=5)
 # window: AbstractWindow = TimeBasedSlidingWindow(timedelta(seconds=5), on_window=on_window)
@@ -55,16 +58,21 @@ window: AbstractWindow = LandmarkWindow("ER Registration", on_window=on_window)
 # window: AbstractWindow = TimeBasedTumblingWindow(timedelta(hours=12), on_window=on_window)
 
 # For EstimatorWindow with completeness_threshold = 0.90
-# window: AbstractWindow = EstimatorWindow(0.95, on_window=on_window)
+window: AbstractWindow = EstimatorWindow(0.95, on_window=on_window)
 
 for i, row in LOG_EVAL.iterrows():
     window.observe_event(row.to_dict(), i)
 
 # title: str = "LossyCounting (epsilon=0.05) on Sepsis Cases - Event Log"
 # title: str = "LossyCountingWithBudget (epsilon=0.05, budget=10) on Sepsis Cases - Event Log"
-title: str = "LandmarkWindow (landmark=ER Registration) on Sepsis Cases - Event Log"
+# title: str = "LandmarkWindow (landmark=ER Registration) on Sepsis Cases - Event Log"
 # title: str = "TimeBasedTumblingWindow (window_size=12 hours) on Sepsis Cases - Event Log"
-# title: str = "EstimatorWindow (completeness_threshold=0.95) on Sepsis Cases - Event Log"
+title: str = "EstimatorWindow (completeness_threshold=0.95) on Sepsis Cases - Event Log"
+
+print("precision")
+print_min_max_avg([conformance_metrics[i][1].precision for i in range(len(conformance_metrics))])
+print("fitness")
+print_min_max_avg([conformance_metrics[i][1].fitness for i in range(len(conformance_metrics))])
 
 plotter = Plotter(list(range(0, len(conformance_metrics))), title)
 plotter.add_subplot(

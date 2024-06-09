@@ -21,14 +21,14 @@ DEBUG: bool = False
 
 conformance_metrics: List[tuple[int, ConformanceMetrics | None, tuple[str, str]]] = []
 
-DATA_PATH: str = "/Users/christianimenkamp/Documents/Data-Repository/"
+DATA_PATH: str = "data/"
 # LOG_NAME: str = "Community/sepsis/Sepsis Cases - Event Log.feather"
 # LOG_NAME: str = "Community/daily_living/activity_log.xes"
 # LOG_NAME: str = "Synthetic/synthetic, online order/online_order.xes"
 
 # LOG_NAME: str = "Community/bpi-c-2012/BPI_Challenge_2012.feather"
 # LOG_NAME: str = "Concept_Drift/Synthetic Event Logs for Concept Drift Detection/cb-2500.feather"
-LOG_NAME: str = ("Concept_Drift/Merged/sudden_drift[bpi-c-2012,bpi-c-2013,bpi-c-2015,bpi-c-2018,bpi-c-2017,"
+LOG_NAME: str = ("/Merged/sudden_drift[bpi-c-2012,bpi-c-2013,bpi-c-2015,bpi-c-2018,bpi-c-2017,"
                  "bpi-c-2019].feather")
 
 LOG_EVAL_FULL: pd.DataFrame = pd.read_feather(DATA_PATH + LOG_NAME)

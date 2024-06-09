@@ -120,6 +120,7 @@ class Plotter:
              fig_width: int = 15,
              fig_height_per_plot: int = 10,
              x_label: str = "",
+             y_label: str = "",
              font_size: int = 24,
              save_path: Optional[str] = None) -> None:
         """
@@ -128,6 +129,7 @@ class Plotter:
         :param fig_width: Figure width
         :param fig_height_per_plot: Figure height per plot
         :param x_label: Label for the x-axis
+        :param y_label: Label for the y-axis
         :param save_path: Path to save the figure as a PNG file
         :return: None
         """
@@ -158,7 +160,8 @@ class Plotter:
             self._color_x_axis(ax, series[tracked_by][1])
 
             ax.set_title(self.title)
-            ax.set_xlabel(x_label)  # Set the x-axis label here
+            ax.set_xlabel(x_label)
+            ax.set_ylabel(y_label)
             ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1), fancybox=True, shadow=True, ncol=5)
             ax.grid(True, linestyle='--', alpha=0.7)
             tracked_by += 1

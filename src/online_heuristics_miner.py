@@ -108,7 +108,7 @@ class OnlineHM:
         pm4py.view_dfg(self.get_dfg(), None, None)
 
 
-DATA_PATH: str = "/Users/christianimenkamp/Documents/Data-Repository/"
+DATA_PATH: str = "data/"
 BPI_C_2012: pd.DataFrame = pd.read_feather(DATA_PATH + "/Community/bpi-c-2012/data.feather")[:5000]
 
 online_hm = OnlineHM(max_qa=100, max_qc=100, max_qr=100)
