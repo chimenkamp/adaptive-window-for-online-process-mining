@@ -1,0 +1,9 @@
+venv
+completeness_estimation-data
+window_consumer_app-data
+window_producer_app-data
+Windowing App-data
+WindowingApp-data
+process-completeness-estimation
+__pycache__/
+.idea/
