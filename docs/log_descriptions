@@ -1,0 +1,25 @@
+
+# sudden_drift_short[bpi-c-2012,bpi-c-2013,bpi-c-2015].feather
+log_name  |  mean trace      |  len |  drift point
+bpi-c-2012	 20.625	            165	 165
+bpi-c-2013	 3.4	            136	 301
+bpi-c-2015	 52.6	            263	 564
+
+# recurring_drift_short[bpi-c-2012,bpi-c-2013].feather
+log_name  |  mean trace      |  len |  drift point
+bpi-c-2012	 20.625	            165	    165
+bpi-c-2013	 3.4	            136	    301
+
+
+# gradual_drift_short[bpi-c-2012,bpi-c-2013].feather
+log_name  |  mean trace      |  len |  drift point
+bpi-c-2012	 20.625	            165	    165
+bpi-c-2013	 3.4	            136	    301
+
+# incremental_drift_short[bpi-c-2012,bpi-c-2013,bpi-c-2015,bpi-c-2017,bpi-c-2019].feather
+bpi-c-2012	 20.3	 203	 203
+bpi-c-2013	 3.3	 165	 368
+bpi-c-2015	 54.25	 217	 585
+bpi-c-2018	 50.5	 202	 787
+bpi-c-2017	 50.0	 200	 987
+bpi-c-2019	 14.25	 57	     1044
