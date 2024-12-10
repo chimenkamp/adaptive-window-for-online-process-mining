@@ -1,0 +1,14 @@
+,Log Name,Species,Window Counter,Window Size,Precision,Fitness,F1-Score,Start Event,End Event
+0,"synthetic, online order",trace_variant,0,152,0.9764222366428726,0.9956140350877193,0.9859247488589747,Open online store,Finalize order
+1,"synthetic, online order",trace_variant,0,182,0.9747809360974568,0.999561403508772,0.9870156568627279,Open online store,Finalize order
+2,"synthetic, online order",trace_variant,0,252,0.9747809360974568,0.999561403508772,0.9870156568627279,Open online store,Finalize order
+3,"synthetic, online order",trace_variant,0,90,0.9861191440138809,0.9757521329142343,0.9809082475438673,Open online store,Finalize order
+4,"synthetic, online order",trace_variant,0,140,0.8587121212121211,0.9968876439464674,0.9226553262365427,Open online store,Finalize order
+5,"synthetic, online order",trace_variant,0,136,0.9764222366428726,0.9956140350877193,0.9859247488589747,Open online store,Finalize order
+6,"synthetic, online order",trace_variant,0,149,0.9747809360974568,0.999561403508772,0.9870156568627279,Open online store,Finalize order
+7,"synthetic, online order",trace_variant,0,222,0.9747809360974568,0.999561403508772,0.9870156568627279,Open online store,Finalize order
+8,"synthetic, online order",trace_variant,0,30,0.9927810244070128,0.8968452679018528,0.9423778314539341,Open online store,Finalize order
+9,"synthetic, online order",trace_variant,0,52,0.9739766081871345,0.9417744916820703,0.9576049050926194,Open online store,Finalize order
+10,"synthetic, online order",trace_variant,0,207,0.9764222366428726,0.9956140350877193,0.9859247488589747,Open online store,Finalize order
+11,"synthetic, online order",trace_variant,0,99,0.9747809360974568,0.999561403508772,0.9870156568627279,Open online store,Finalize order
+12,"synthetic, online order",trace_variant,0,152,0.9764222366428726,0.9956140350877193,0.9859247488589747,Open online store,Finalize order

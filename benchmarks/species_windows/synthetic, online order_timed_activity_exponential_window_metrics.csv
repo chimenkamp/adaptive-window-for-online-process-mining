@@ -1,0 +1,108 @@
+,Log Name,Species,Window Counter,Window Size,Precision,Fitness,F1-Score,Start Event,End Event
+0,"synthetic, online order",timed_activity_exponential,0,22,0.9970873786407767,0.9489120151371807,0.9724033797328366,Open online store,Start search
+1,"synthetic, online order",timed_activity_exponential,0,31,0.5949569741845107,0.945600756859035,0.730374141456348,Search for alternative articles,Select article
+2,"synthetic, online order",timed_activity_exponential,0,25,0.6531308650400955,0.9746192893401016,0.7821273281019544,Add to shopping cart ,Add to shopping cart 
+3,"synthetic, online order",timed_activity_exponential,0,14,0.55298230281844,0.8288144603934078,0.6633677847851535,Enter login data,Enter login data
+4,"synthetic, online order",timed_activity_exponential,0,21,0.5658494250379692,0.8940397350993378,0.693055176900523,Determine that login data is incorrect,Enter login data
+5,"synthetic, online order",timed_activity_exponential,0,14,0.5771585391598058,0.7790397521941146,0.6630733104299933,Determine that login data is incorrect,Enter login data
+6,"synthetic, online order",timed_activity_exponential,0,19,0.591106719367589,0.9117647058823529,0.7172273490257355,Determine that login data is correct,Determine that login data is correct
+7,"synthetic, online order",timed_activity_exponential,0,17,0.6254578754578755,0.9210118740320082,0.7449924322070351,Enter address and shipping methods,Enter address and shipping methods
+8,"synthetic, online order",timed_activity_exponential,0,43,0.4191836734693878,0.9536711602616752,0.5823825948936627,Enter credit card details,Enter credit card details
+9,"synthetic, online order",timed_activity_exponential,0,23,0.4114106254907093,0.9533306741124851,0.5747761411633607,Check credit card details,Enter credit card details
+10,"synthetic, online order",timed_activity_exponential,0,22,0.24073394495412848,0.9272018199545011,0.3822281303351589,Check credit card details,Enter credit card details
+11,"synthetic, online order",timed_activity_exponential,0,19,0.5722199425523185,0.8341822297679683,0.6788039964535632,Check credit card details,Enter address and shipping methods
+12,"synthetic, online order",timed_activity_exponential,0,15,0.5944389275074479,0.9092356687898089,0.7188856912763648,Enter credit card details,Enter credit card details
+13,"synthetic, online order",timed_activity_exponential,0,15,0.3955354537496353,0.8649620455453456,0.5428382925826456,Check credit card details,Enter credit card details
+14,"synthetic, online order",timed_activity_exponential,0,13,0.5475251861585633,0.7522713506965475,0.6337722861278778,Check credit card details,Enter address and shipping methods
+15,"synthetic, online order",timed_activity_exponential,0,16,0.38811138363872455,0.9337748344370861,0.5483204803026612,Enter credit card details,Enter credit card details
+16,"synthetic, online order",timed_activity_exponential,0,16,0.5823309829946081,0.8657986980470707,0.6963207971077994,Check credit card details,Check credit card details
+17,"synthetic, online order",timed_activity_exponential,0,20,0.547894221351616,0.8913467794404685,0.6786406854821891,Show credit card details as verified,Enter address and shipping methods
+18,"synthetic, online order",timed_activity_exponential,0,19,0.4191836734693878,0.9536711602616752,0.5823825948936627,Enter credit card details,Enter credit card details
+19,"synthetic, online order",timed_activity_exponential,0,25,0.45965417867435154,0.9720552605465381,0.624161928632317,Check credit card details,Enter credit card details
+20,"synthetic, online order",timed_activity_exponential,0,21,0.4210742107421074,0.9534698503592118,0.5841668900518521,Check credit card details,Enter credit card details
+21,"synthetic, online order",timed_activity_exponential,0,20,0.5846566302330378,0.8172258387581373,0.6816498752160488,Check credit card details,Check credit card details
+22,"synthetic, online order",timed_activity_exponential,0,29,0.6182502351834431,0.8890036138358286,0.7293087275120362,Show credit card details as verified,Show credit card details as verified
+23,"synthetic, online order",timed_activity_exponential,0,30,0.6179254035999258,0.9503355704697987,0.7489014910751809,Confirm order,Confirm order
+24,"synthetic, online order",timed_activity_exponential,0,15,0.5523128846535637,0.8522789676002196,0.6702653932806487,Finalize order,Start search
+25,"synthetic, online order",timed_activity_exponential,0,13,0.5692532332081769,0.8182317408017573,0.671403399229346,Select article,Select article
+26,"synthetic, online order",timed_activity_exponential,0,17,0.5613430908308222,0.8878878878878879,0.687826493660645,Add to shopping cart ,Add to shopping cart 
+27,"synthetic, online order",timed_activity_exponential,0,25,0.6168362627197039,0.9526652452025587,0.7488217966118735,Enter login data,Enter login data
+28,"synthetic, online order",timed_activity_exponential,0,16,0.588307190873905,0.9073741007194245,0.713808097040934,Determine that login data is correct,Determine that login data is correct
+29,"synthetic, online order",timed_activity_exponential,0,22,0.4532046124966479,0.9746791989156733,0.6187185611638893,Enter credit card details,Enter address and shipping methods
+30,"synthetic, online order",timed_activity_exponential,0,33,0.41999746225098333,0.9798732761833768,0.587974700842527,Enter credit card details,Enter credit card details
+31,"synthetic, online order",timed_activity_exponential,0,22,0.5835406301824213,0.8622934401602403,0.6960456497667407,Check credit card details,Check credit card details
+32,"synthetic, online order",timed_activity_exponential,0,14,0.547894221351616,0.8913467794404685,0.6786406854821891,Show credit card details as verified,Enter address and shipping methods
+33,"synthetic, online order",timed_activity_exponential,0,15,0.40884265279583876,0.9533306741124851,0.5722652677107151,Enter credit card details,Enter credit card details
+34,"synthetic, online order",timed_activity_exponential,0,18,0.6001851851851852,0.859402460456942,0.706775816331377,Check credit card details,Enter address and shipping methods
+35,"synthetic, online order",timed_activity_exponential,0,14,0.55298230281844,0.8288144603934078,0.6633677847851535,Enter credit card details,Enter credit card details
+36,"synthetic, online order",timed_activity_exponential,0,16,0.588307190873905,0.8968452679018528,0.7105270803548647,Check credit card details,Check credit card details
+37,"synthetic, online order",timed_activity_exponential,0,20,0.6165822547364472,0.9252089749230092,0.740006072010707,Show credit card details as verified,Show credit card details as verified
+38,"synthetic, online order",timed_activity_exponential,0,14,0.5527759490893132,0.79585326953748,0.6524084460402828,Confirm order,Confirm order
+39,"synthetic, online order",timed_activity_exponential,0,20,0.5979643765903309,0.9167478091528725,0.7238108168010541,Finalize order,Start search
+40,"synthetic, online order",timed_activity_exponential,0,16,0.5763031191124137,0.8933400100150225,0.7006253749578546,Search for alternative articles,Select article
+41,"synthetic, online order",timed_activity_exponential,0,17,0.5613430908308222,0.8878878878878879,0.687826493660645,Add to shopping cart ,Add to shopping cart 
+42,"synthetic, online order",timed_activity_exponential,0,16,0.5733032602009431,0.9035214664737096,0.7014939458080044,Enter login data,Enter login data
+43,"synthetic, online order",timed_activity_exponential,0,21,0.6531308650400955,0.9758877685225779,0.7825354594541877,Determine that login data is correct,Determine that login data is correct
+44,"synthetic, online order",timed_activity_exponential,0,17,0.5484795063904804,0.8617424242424243,0.6703172730721857,Enter credit card details,Enter address and shipping methods
+45,"synthetic, online order",timed_activity_exponential,0,16,0.40838339705079196,0.9262780447447201,0.5668502328463481,Enter credit card details,Enter credit card details
+46,"synthetic, online order",timed_activity_exponential,0,24,0.4210742107421074,0.9534698503592118,0.5841668900518521,Check credit card details,Enter credit card details
+47,"synthetic, online order",timed_activity_exponential,0,13,0.5719572368421053,0.8522789676002196,0.6845312902548167,Check credit card details,Check credit card details
+48,"synthetic, online order",timed_activity_exponential,0,21,0.4160382101558572,0.978021978021978,0.5837545848880504,Mark credit card details as incorrect,Enter credit card details
+49,"synthetic, online order",timed_activity_exponential,0,12,0.5683104284559418,0.8416090509113765,0.6784716536159515,Enter address and shipping methods,Enter address and shipping methods
+50,"synthetic, online order",timed_activity_exponential,0,40,0.4191836734693878,0.9536711602616752,0.5823825948936627,Enter credit card details,Enter credit card details
+51,"synthetic, online order",timed_activity_exponential,0,17,0.6254578754578755,0.9210118740320082,0.7449924322070351,Check credit card details,Check credit card details
+52,"synthetic, online order",timed_activity_exponential,0,19,0.5903515944399018,0.8935666982024598,0.7109805541690397,Mark credit card details as incorrect,Enter credit card details
+53,"synthetic, online order",timed_activity_exponential,0,18,0.6344670406732118,0.9353070175438596,0.7560597302976718,Check credit card details,Check credit card details
+54,"synthetic, online order",timed_activity_exponential,0,12,0.5633714880332987,0.7448145820238843,0.64151011692909,Show credit card details as verified,Enter address and shipping methods
+55,"synthetic, online order",timed_activity_exponential,0,16,0.588307190873905,0.8968452679018528,0.7105270803548647,Check credit card details,Check credit card details
+56,"synthetic, online order",timed_activity_exponential,0,23,0.5926664009565563,0.9446688206785138,0.7283687541510203,Show credit card details as verified,Show credit card details as verified
+57,"synthetic, online order",timed_activity_exponential,0,23,0.5613430908308222,0.8878878878878879,0.687826493660645,Confirm order,Confirm order
+58,"synthetic, online order",timed_activity_exponential,0,21,0.5796141103098811,0.9390840373499333,0.7168065091190411,Finalize order,Start search
+59,"synthetic, online order",timed_activity_exponential,0,19,0.5733032602009431,0.9035214664737096,0.7014939458080044,Select article,Select article
+60,"synthetic, online order",timed_activity_exponential,0,16,0.5835406301824213,0.8696682464454977,0.698436081340266,Add to shopping cart ,Add to shopping cart 
+61,"synthetic, online order",timed_activity_exponential,0,15,0.6223632630203473,0.8557558945908461,0.7206334187119018,Enter login data,Enter login data
+62,"synthetic, online order",timed_activity_exponential,0,17,0.4033290653008963,0.8511419249592169,0.5473068404093199,Determine that login data is incorrect,Enter login data
+63,"synthetic, online order",timed_activity_exponential,0,14,0.55298230281844,0.8288144603934078,0.6633677847851535,Determine that login data is correct,Determine that login data is correct
+64,"synthetic, online order",timed_activity_exponential,0,14,0.5523600439077936,0.7442849548112707,0.6341184683943503,Enter credit card details,Enter credit card details
+65,"synthetic, online order",timed_activity_exponential,0,17,0.5974475843208751,0.9204114151483411,0.7245700381313805,Enter address and shipping methods,Enter credit card details
+66,"synthetic, online order",timed_activity_exponential,0,12,0.5683104284559418,0.8416090509113765,0.6784716536159515,Enter address and shipping methods,Enter address and shipping methods
+67,"synthetic, online order",timed_activity_exponential,0,18,0.588307190873905,0.8968452679018528,0.7105270803548647,Enter credit card details,Enter credit card details
+68,"synthetic, online order",timed_activity_exponential,0,13,0.5719572368421053,0.8522789676002196,0.6845312902548167,Check credit card details,Check credit card details
+69,"synthetic, online order",timed_activity_exponential,0,16,0.588307190873905,0.8968452679018528,0.7105270803548647,Show credit card details as verified,Show credit card details as verified
+70,"synthetic, online order",timed_activity_exponential,0,16,0.588307190873905,0.8968452679018528,0.7105270803548647,Confirm order,Confirm order
+71,"synthetic, online order",timed_activity_exponential,0,18,0.5715650678387159,0.9117647058823529,0.7026527279409814,Finalize order,Start search
+72,"synthetic, online order",timed_activity_exponential,0,14,0.5488588522047418,0.8250930356193514,0.6592073863799558,Search for alternative articles,Select article
+73,"synthetic, online order",timed_activity_exponential,0,13,0.5695833333333333,0.7649643053267435,0.6529716981051201,Add to shopping cart ,Add to shopping cart 
+74,"synthetic, online order",timed_activity_exponential,0,13,0.5695833333333333,0.7649643053267435,0.6529716981051201,Enter login data,Enter login data
+75,"synthetic, online order",timed_activity_exponential,0,30,0.6531308650400955,0.9758877685225779,0.7825354594541877,Determine that login data is correct,Determine that login data is correct
+76,"synthetic, online order",timed_activity_exponential,0,23,0.606884747052111,0.8110480123902943,0.6942679962344072,Enter credit card details,Enter address and shipping methods
+77,"synthetic, online order",timed_activity_exponential,0,17,0.45191796833492726,0.9996187571483035,0.622437820427252,Enter credit card details,Enter credit card details
+78,"synthetic, online order",timed_activity_exponential,0,18,0.5718355718355719,0.9039917350481186,0.7005353923656749,Enter address and shipping methods,Enter credit card details
+79,"synthetic, online order",timed_activity_exponential,0,16,0.5478735005452563,0.8589524422198861,0.6690199078870245,Enter address and shipping methods,Enter credit card details
+80,"synthetic, online order",timed_activity_exponential,0,17,0.6137826580840591,0.785234899328859,0.6890028808811935,Check credit card details,Enter address and shipping methods
+81,"synthetic, online order",timed_activity_exponential,0,15,0.40440224428139837,0.883292566383763,0.5547983780693417,Check credit card details,Enter credit card details
+82,"synthetic, online order",timed_activity_exponential,0,19,0.38751857355126296,0.9075815335814764,0.5431312982493854,Check credit card details,Enter credit card details
+83,"synthetic, online order",timed_activity_exponential,0,17,0.41970551809550016,0.9333593141075605,0.5790351580699198,Check credit card details,Enter credit card details
+84,"synthetic, online order",timed_activity_exponential,0,22,0.5484795063904804,0.8583583583583584,0.6692910114167072,Enter address and shipping methods,Enter address and shipping methods
+85,"synthetic, online order",timed_activity_exponential,0,20,0.4554431885782273,0.972178829948736,0.62029335557175,Enter credit card details,Enter credit card details
+86,"synthetic, online order",timed_activity_exponential,0,21,0.4576563004411923,0.9996187571483035,0.6278592635831479,Check credit card details,Enter credit card details
+87,"synthetic, online order",timed_activity_exponential,0,14,0.5504183179216204,0.69377990430622,0.613839758189469,Check credit card details,Enter address and shipping methods
+88,"synthetic, online order",timed_activity_exponential,0,14,0.55298230281844,0.8288144603934078,0.6633677847851535,Check credit card details,Check credit card details
+89,"synthetic, online order",timed_activity_exponential,0,18,0.6293770733505344,0.9162609542356378,0.746194940225153,Mark credit card details as incorrect,Enter credit card details
+90,"synthetic, online order",timed_activity_exponential,0,14,0.55298230281844,0.8288144603934078,0.6633677847851535,Check credit card details,Check credit card details
+91,"synthetic, online order",timed_activity_exponential,0,15,0.6408712590756154,0.9392065945388974,0.761874500547377,Mark credit card details as incorrect,Enter credit card details
+92,"synthetic, online order",timed_activity_exponential,0,13,0.5514403292181069,0.8152634766807996,0.657888209632472,Enter address and shipping methods,Enter address and shipping methods
+93,"synthetic, online order",timed_activity_exponential,0,20,0.3868288341738356,0.9079988406020374,0.5425279977925682,Enter credit card details,Enter credit card details
+94,"synthetic, online order",timed_activity_exponential,0,17,0.41970551809550016,0.9333593141075605,0.5790351580699198,Check credit card details,Enter credit card details
+95,"synthetic, online order",timed_activity_exponential,0,21,0.5544635544635544,0.9023775111870962,0.6868771812075667,Enter address and shipping methods,Enter credit card details
+96,"synthetic, online order",timed_activity_exponential,0,14,0.5523600439077936,0.7442849548112707,0.6341184683943503,Enter address and shipping methods,Enter address and shipping methods
+97,"synthetic, online order",timed_activity_exponential,0,18,0.588307190873905,0.8968452679018528,0.7105270803548647,Check credit card details,Check credit card details
+98,"synthetic, online order",timed_activity_exponential,0,24,0.6309544891092616,0.9652317880794702,0.7630905470410724,Show credit card details as verified,Show credit card details as verified
+99,"synthetic, online order",timed_activity_exponential,0,15,0.6223632630203473,0.8389261744966443,0.7145974205905224,Confirm order,Confirm order
+100,"synthetic, online order",timed_activity_exponential,0,18,0.5701843224630343,0.8622934401602403,0.6864556138612649,Finalize order,Start search
+101,"synthetic, online order",timed_activity_exponential,0,18,0.588307190873905,0.8968452679018528,0.7105270803548647,Select article,Select article
+102,"synthetic, online order",timed_activity_exponential,0,13,0.5667295202178924,0.814387699066447,0.6683539145249933,Add to shopping cart ,Add to shopping cart 
+103,"synthetic, online order",timed_activity_exponential,0,14,0.5523600439077936,0.7442849548112707,0.6341184683943503,Enter login data,Enter login data
+104,"synthetic, online order",timed_activity_exponential,0,25,0.5669373308348948,0.8982974910394266,0.6951491655298075,Determine that login data is correct,Determine that login data is correct
+105,"synthetic, online order",timed_activity_exponential,0,15,0.6254578754578755,0.9210118740320082,0.7449924322070351,Enter address and shipping methods,Enter address and shipping methods
+106,"synthetic, online order",timed_activity_exponential,0,23,0.41999746225098333,0.9798732761833768,0.587974700842527,Enter credit card details,Enter credit card details

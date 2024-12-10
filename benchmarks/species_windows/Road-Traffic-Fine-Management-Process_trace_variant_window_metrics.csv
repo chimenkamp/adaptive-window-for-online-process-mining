@@ -1,0 +1,204 @@
+,Log Name,Species,Window Counter,Window Size,Precision,Fitness,F1-Score,Start Event,End Event
+0,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+1,Road-Traffic-Fine-Management-Process,trace_variant,0,23,0.3102636226859423,0.9506712457071496,0.4678413010377717,Insert Fine Notification,Payment
+2,Road-Traffic-Fine-Management-Process,trace_variant,0,16,0.9870024370430545,0.8989715668481548,0.9409325107142085,Create Fine,Send for Credit Collection
+3,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+4,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+5,Road-Traffic-Fine-Management-Process,trace_variant,0,18,0.6392460806764135,0.8636006289308176,0.7346768153859018,Insert Fine Notification,Send for Credit Collection
+6,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Send for Credit Collection
+7,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Send for Credit Collection
+8,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+9,Road-Traffic-Fine-Management-Process,trace_variant,0,14,0.9869458797933097,0.918443696221474,0.9514633996306578,Create Fine,Send Fine
+10,Road-Traffic-Fine-Management-Process,trace_variant,0,18,0.6402599683822238,0.9424803591470258,0.7625160418959376,Insert Fine Notification,Send Fine
+11,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5873736331751599,0.8685786322092657,0.7008199362420179,Insert Fine Notification,Payment
+12,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Payment
+13,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+14,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.9869458797933097,0.8636006289308176,0.9211625630504411,Create Fine,Send for Credit Collection
+15,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.9869458797933097,0.8636006289308176,0.9211625630504411,Create Fine,Payment
+16,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9918080748976009,0.8942786069651741,0.9405217184612612,Create Fine,Send Fine
+17,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Payment
+18,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Send Fine
+19,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5873736331751599,0.8685786322092657,0.7008199362420179,Insert Fine Notification,Payment
+20,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+21,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+22,Road-Traffic-Fine-Management-Process,trace_variant,0,16,0.8333643641779929,0.994005994005994,0.9066242860666076,Create Fine,Send Fine
+23,Road-Traffic-Fine-Management-Process,trace_variant,0,24,0.3956402788809461,0.9271349656021848,0.554609617742665,Insert Fine Notification,Payment
+24,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+25,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9918080748976009,0.8942786069651741,0.9405217184612612,Create Fine,Send Fine
+26,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+27,Road-Traffic-Fine-Management-Process,trace_variant,0,28,0.26567431096149796,0.9983395767571923,0.41966814089243437,Insert Fine Notification,Send for Credit Collection
+28,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+29,Road-Traffic-Fine-Management-Process,trace_variant,0,17,0.8700144657987188,0.941025641025641,0.9041278735846577,Create Fine,Send for Credit Collection
+30,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+31,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+32,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+33,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Send for Credit Collection
+34,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+35,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+36,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+37,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+38,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.3245406958842245,0.9339876281251843,0.4817007118494339,Insert Fine Notification,Send Fine
+39,Road-Traffic-Fine-Management-Process,trace_variant,0,25,0.6412681730600805,0.9034876728803367,0.7501222809971803,Insert Fine Notification,Send for Credit Collection
+40,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Send Fine
+41,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+42,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.6125532739248354,0.907742109522525,0.7314899553356591,Insert Fine Notification,Send Fine
+43,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Send Fine
+44,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Send for Credit Collection
+45,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+46,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+47,Road-Traffic-Fine-Management-Process,trace_variant,0,18,0.870442842430484,0.9597607395323545,0.9129223376076737,Create Fine,Send for Credit Collection
+48,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+49,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Send for Credit Collection
+50,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Send Fine
+51,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.6256921373200444,0.8942786069651741,0.736255082613136,Insert Fine Notification,Send Fine
+52,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+53,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+54,Road-Traffic-Fine-Management-Process,trace_variant,0,18,0.9418060200668896,0.9243281471004243,0.9329852362950732,Create Fine,Send for Credit Collection
+55,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Send Fine
+56,Road-Traffic-Fine-Management-Process,trace_variant,0,21,0.6599217820098623,0.9179616913624864,0.7678423982551805,Insert Fine Notification,Send Fine
+57,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9918080748976009,0.8942786069651741,0.9405217184612612,Create Fine,Send Fine
+58,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5634141017245142,0.8618360454405896,0.681382959112886,Insert Fine Notification,Send Fine
+59,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+60,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Send Fine
+61,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+62,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+63,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+64,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9944709726061824,0.8619329388560157,0.923470676540752,Create Fine,Payment
+65,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Payment
+66,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+67,Road-Traffic-Fine-Management-Process,trace_variant,0,13,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Send for Credit Collection
+68,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9944709726061824,0.8619329388560157,0.923470676540752,Create Fine,Payment
+69,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Send for Credit Collection
+70,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+71,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.9869458797933097,0.8636006289308176,0.9211625630504411,Create Fine,Payment
+72,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+73,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+74,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Send for Credit Collection
+75,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+76,Road-Traffic-Fine-Management-Process,trace_variant,0,15,1.0,0.9005641748942173,0.9476808905380334,Create Fine,Payment
+77,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+78,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.6256921373200444,0.8942786069651741,0.736255082613136,Insert Fine Notification,Send Fine
+79,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5873736331751599,0.8685786322092657,0.7008199362420179,Insert Fine Notification,Payment
+80,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+81,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+82,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+83,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+84,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Payment
+85,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+86,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9944709726061824,0.8619329388560157,0.923470676540752,Create Fine,Payment
+87,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+88,Road-Traffic-Fine-Management-Process,trace_variant,0,17,0.6392460806764135,0.918443696221474,0.7538234401213807,Insert Fine Notification,Send Fine
+89,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.6256921373200444,0.8942786069651741,0.736255082613136,Insert Fine Notification,Send Fine
+90,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+91,Road-Traffic-Fine-Management-Process,trace_variant,0,21,0.9356613250418561,0.9372705018359853,0.9364652221564305,Create Fine,Send Fine
+92,Road-Traffic-Fine-Management-Process,trace_variant,0,13,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Send for Credit Collection
+93,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+94,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.6256921373200444,0.8942786069651741,0.736255082613136,Insert Fine Notification,Send Fine
+95,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5634141017245142,0.8618360454405896,0.681382959112886,Insert Fine Notification,Send Fine
+96,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+97,Road-Traffic-Fine-Management-Process,trace_variant,0,19,0.925680473372781,0.90006038647343,0.9126906703342268,Create Fine,Send for Credit Collection
+98,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+99,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+100,Road-Traffic-Fine-Management-Process,trace_variant,0,14,0.9869458797933097,0.918443696221474,0.9514633996306578,Create Fine,Send Fine
+101,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.62467580585402,0.9281233664401464,0.7467497693296169,Payment,Send Fine
+102,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.3245406958842245,0.9339876281251843,0.4817007118494339,Insert Fine Notification,Send Fine
+103,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+104,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Send for Credit Collection
+105,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.870442842430484,0.9597607395323545,0.9129223376076737,Create Fine,Payment
+106,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.9869458797933097,0.8636006289308176,0.9211625630504411,Create Fine,Send for Credit Collection
+107,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Payment
+108,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+109,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5634141017245142,0.8618360454405896,0.681382959112886,Insert Fine Notification,Send Fine
+110,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+111,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+112,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+113,Road-Traffic-Fine-Management-Process,trace_variant,0,16,0.9950779327317474,0.8350649350649351,0.9080763080333468,Create Fine,Send for Credit Collection
+114,Road-Traffic-Fine-Management-Process,trace_variant,0,14,0.9869458797933097,0.918443696221474,0.9514633996306578,Create Fine,Send Fine
+115,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+116,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+117,Road-Traffic-Fine-Management-Process,trace_variant,0,16,0.8333643641779929,0.994005994005994,0.9066242860666076,Create Fine,Send Fine
+118,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Send Fine
+119,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.3245406958842245,0.9429569372202733,0.48288516301962087,Insert Fine Notification,Send Fine
+120,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5634141017245142,0.8618360454405896,0.681382959112886,Insert Fine Notification,Send Fine
+121,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.6125532739248354,0.907742109522525,0.7314899553356591,Insert Fine Notification,Payment
+122,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+123,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+124,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+125,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Send Fine
+126,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.3744979919678715,0.9458718739294278,0.536557409547865,Insert Fine Notification,Send for Credit Collection
+127,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Send Fine
+128,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.6256921373200444,0.8942786069651741,0.736255082613136,Insert Fine Notification,Send Fine
+129,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.62467580585402,0.9281233664401464,0.7467497693296169,Payment,Send Fine
+130,Road-Traffic-Fine-Management-Process,trace_variant,0,18,0.6392460806764135,0.8636006289308176,0.7346768153859018,Insert Fine Notification,Send for Credit Collection
+131,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+132,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5634141017245142,0.8618360454405896,0.681382959112886,Insert Fine Notification,Send Fine
+133,Road-Traffic-Fine-Management-Process,trace_variant,0,18,0.6392460806764135,0.8636006289308176,0.7346768153859018,Insert Fine Notification,Payment
+134,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+135,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5634141017245142,0.8618360454405896,0.681382959112886,Insert Fine Notification,Send Fine
+136,Road-Traffic-Fine-Management-Process,trace_variant,0,13,0.6392460806764135,0.8636006289308176,0.7346768153859018,Insert Fine Notification,Send for Credit Collection
+137,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9935256032960565,0.8357546408393866,0.9078364415834695,Create Fine,Send Fine
+138,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9948174322732627,0.995,0.9949087077612462,Create Fine,Send Fine
+139,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+140,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+141,Road-Traffic-Fine-Management-Process,trace_variant,0,18,0.7580317889753128,0.9488357843137255,0.8427691735231425,Create Fine,Payment
+142,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.8785535117056856,0.8631578947368421,0.8707876595083461,Create Fine,Payment
+143,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+144,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+145,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+146,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+147,Road-Traffic-Fine-Management-Process,trace_variant,0,17,0.8700144657987188,0.941025641025641,0.9041278735846577,Create Fine,Payment
+148,Road-Traffic-Fine-Management-Process,trace_variant,0,17,0.9418060200668896,0.971254649983091,0.9563036768176688,Create Fine,Send Fine
+149,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+150,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+151,Road-Traffic-Fine-Management-Process,trace_variant,0,8,0.5634141017245142,0.8773915386688225,0.6861921577220252,Insert Fine Notification,Send Fine
+152,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.6125532739248354,0.907742109522525,0.7314899553356591,Insert Fine Notification,Send Fine
+153,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5634141017245142,0.8618360454405896,0.681382959112886,Insert Fine Notification,Send Fine
+154,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.6256921373200444,0.8942786069651741,0.736255082613136,Insert Fine Notification,Send Fine
+155,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9918080748976009,0.8942786069651741,0.9405217184612612,Create Fine,Send Fine
+156,Road-Traffic-Fine-Management-Process,trace_variant,0,14,0.37433712121212126,0.9671028037383178,0.5397520570754568,Insert Fine Notification,Send Fine
+157,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5634141017245142,0.8618360454405896,0.681382959112886,Insert Fine Notification,Send Fine
+158,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+159,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.9869458797933097,0.8636006289308176,0.9211625630504411,Create Fine,Send for Credit Collection
+160,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+161,Road-Traffic-Fine-Management-Process,trace_variant,0,18,0.6402599683822238,0.9424803591470258,0.7625160418959376,Insert Fine Notification,Send Fine
+162,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5873736331751599,0.8685786322092657,0.7008199362420179,Insert Fine Notification,Payment
+163,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9935256032960565,0.8357546408393866,0.9078364415834695,Create Fine,Send Fine
+164,Road-Traffic-Fine-Management-Process,trace_variant,0,8,0.5634141017245142,0.8773915386688225,0.6861921577220252,Insert Fine Notification,Send Fine
+165,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+166,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+167,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+168,Road-Traffic-Fine-Management-Process,trace_variant,0,15,0.9870024370430545,0.8399581589958159,0.9075628141521549,Create Fine,Send Fine
+169,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+170,Road-Traffic-Fine-Management-Process,trace_variant,0,17,0.9418060200668896,0.971254649983091,0.9563036768176688,Create Fine,Send Fine
+171,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+172,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Send Fine
+173,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.6125532739248354,0.907742109522525,0.7314899553356591,Insert Fine Notification,Send Fine
+174,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Send Fine
+175,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Payment
+176,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Send Fine
+177,Road-Traffic-Fine-Management-Process,trace_variant,0,7,0.5873736331751599,0.695496417604913,0.63687862604712,Insert Fine Notification,Payment
+178,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+179,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+180,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Payment
+181,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+182,Road-Traffic-Fine-Management-Process,trace_variant,0,12,0.9997481108312343,0.9350520575111552,0.9663184274234644,Create Fine,Payment
+183,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9944709726061824,0.8619329388560157,0.923470676540752,Create Fine,Payment
+184,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+185,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Payment
+186,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.9934656948982157,0.914308176100629,0.9522447301842532,Create Fine,Payment
+187,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Send Fine
+188,Road-Traffic-Fine-Management-Process,trace_variant,0,14,0.6402599683822238,0.8989715668481548,0.7478738497656503,Insert Fine Notification,Send for Credit Collection
+189,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+190,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+191,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.9918080748976009,0.8302631578947368,0.9038743266123802,Create Fine,Send for Credit Collection
+192,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+193,Road-Traffic-Fine-Management-Process,trace_variant,0,10,0.3245406958842245,0.8981869001568121,0.476799906299331,Insert Fine Notification,Send Fine
+194,Road-Traffic-Fine-Management-Process,trace_variant,0,4,1.0,0.8800513149454778,0.9361992494029341,Create Fine,Send Fine
+195,Road-Traffic-Fine-Management-Process,trace_variant,0,9,0.3245406958842245,0.9339876281251843,0.4817007118494339,Insert Fine Notification,Send Fine
+196,Road-Traffic-Fine-Management-Process,trace_variant,0,14,0.37433712121212126,0.9671028037383178,0.5397520570754568,Insert Fine Notification,Send Fine
+197,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.5873736331751599,0.5667670682730923,0.5768863911269425,Insert Fine Notification,Payment
+198,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+199,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+200,Road-Traffic-Fine-Management-Process,trace_variant,0,4,0.9935256032960565,0.757703081232493,0.8597362726541394,Create Fine,Payment
+201,Road-Traffic-Fine-Management-Process,trace_variant,0,6,1.0,0.9566648381788261,0.9778525371460611,Create Fine,Payment
+202,Road-Traffic-Fine-Management-Process,trace_variant,0,11,0.9934656948982157,0.966704077815189,0.9799022021425928,Create Fine,Send Fine

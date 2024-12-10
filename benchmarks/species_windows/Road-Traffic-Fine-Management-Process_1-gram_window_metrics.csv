@@ -1,0 +1,387 @@
+,Log Name,Species,Window Counter,Window Size,Precision,Fitness,F1-Score,Start Event,End Event
+0,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+1,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+2,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Insert Fine Notification,Insert Fine Notification
+3,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5781453261475562,0.8586542530681337,0.6910176622672015,Insert Date Appeal to Prefecture,Add penalty
+4,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+5,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+6,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8737179487179487,0.7297558591792375,Send Fine,Send Fine
+7,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+8,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+9,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9371980676328502,0.7037535989588055,Send for Credit Collection,Create Fine
+10,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+11,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Insert Fine Notification,Insert Fine Notification
+12,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+13,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send for Credit Collection,Send for Credit Collection
+14,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+15,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+16,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+17,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+18,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Payment,Payment
+19,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+20,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+21,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8172606568832984,0.7092932223277644,Insert Fine Notification,Insert Fine Notification
+22,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.8690709525676206,0.7273817852700512,Add penalty,Add penalty
+23,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9371980676328502,0.7037535989588055,Send for Credit Collection,Create Fine
+24,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+25,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+26,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+27,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+28,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+29,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.8357546408393866,0.7154465088897992,Send Fine,Send Fine
+30,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+31,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+32,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6254168210448314,0.8492997198879552,0.7203639698658535,Send for Credit Collection,Create Fine
+33,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.8357546408393866,0.7154465088897992,Send Fine,Send Fine
+34,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+35,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+36,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+37,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+38,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+39,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+40,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+41,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+42,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+43,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+44,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.6905065985525756,0.6205195509929444,Send Fine,Payment
+45,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+46,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+47,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5873736331751599,0.9175792507204611,0.7162508062401227,Insert Fine Notification,Create Fine
+48,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+49,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5873736331751599,0.8469740634005763,0.69368150276589,Insert Fine Notification,Create Fine
+50,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+51,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+52,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+53,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+54,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8737179487179487,0.7297558591792375,Send Fine,Send Fine
+55,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+56,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.6092986911506153,0.6481371969248966,0.6281181402843067,Add penalty,Payment
+57,Road-Traffic-Fine-Management-Process,1-gram,0,8,1.0,0.6492595479345284,0.7873345935727788,Create Fine,Create Fine
+58,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+59,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+60,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+61,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+62,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+63,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+64,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+65,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+66,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+67,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+68,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+69,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+70,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+71,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.6092986911506153,0.9131661442006269,0.7309080952745067,Add penalty,Create Fine
+72,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+73,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+74,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+75,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5873736331751599,0.695496417604913,0.63687862604712,Insert Fine Notification,Payment
+76,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+77,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+78,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8172606568832984,0.7092932223277644,Insert Fine Notification,Insert Fine Notification
+79,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+80,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.7441037735849056,0.6791796595821562,Payment,Send for Credit Collection
+81,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+82,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+83,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+84,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+85,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+86,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+87,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+88,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+89,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+90,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+91,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+92,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+93,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8172606568832984,0.7092932223277644,Insert Fine Notification,Insert Fine Notification
+94,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.6092986911506153,0.9131661442006269,0.7309080952745067,Add penalty,Create Fine
+95,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+96,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+97,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.6092986911506153,0.9131661442006269,0.7309080952745067,Add penalty,Create Fine
+98,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+99,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+100,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+101,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+102,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+103,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+104,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+105,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+106,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.9996805111821087,0.7245873153779323,0.8401894493133258,Create Fine,Create Fine
+107,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+108,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+109,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+110,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+111,Road-Traffic-Fine-Management-Process,1-gram,0,10,0.627906976744186,0.844100580270793,0.7201276119813471,Add penalty,Add penalty
+112,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+113,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+114,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+115,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+116,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+117,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+118,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+119,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+120,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+121,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+122,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+123,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+124,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+125,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+126,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.6905065985525756,0.6205195509929444,Send Fine,Payment
+127,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+128,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+129,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+130,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+131,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+132,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+133,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+134,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+135,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+136,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+137,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+138,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+139,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Insert Fine Notification,Insert Fine Notification
+140,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.8690709525676206,0.7273817852700512,Add penalty,Add penalty
+141,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+142,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+143,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+144,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+145,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+146,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+147,Road-Traffic-Fine-Management-Process,1-gram,0,10,1.0,0.7487437185929648,0.8563218390804598,Create Fine,Create Fine
+148,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+149,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+150,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+151,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+152,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+153,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+154,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+155,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+156,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+157,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+158,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+159,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+160,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+161,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+162,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+163,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.6092986911506153,0.6481371969248966,0.6281181402843067,Add penalty,Payment
+164,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+165,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+166,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+167,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+168,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+169,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+170,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+171,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+172,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+173,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6074766355140186,0.7575116377486246,0.6742484607026439,Add penalty,Add penalty
+174,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6270810210876804,0.9422132331696041,0.7530060531801981,Send Appeal to Prefecture,Create Fine
+175,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8737179487179487,0.7297558591792375,Send Fine,Send Fine
+176,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+177,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+178,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+179,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+180,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+181,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+182,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+183,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+184,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+185,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6090607303261082,0.6764705882352942,0.6409982620661309,Add penalty,Payment
+186,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+187,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+188,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+189,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+190,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send for Credit Collection,Send for Credit Collection
+191,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9935256032960565,0.7723404255319148,0.869080637714994,Create Fine,Create Fine
+192,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+193,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.9935256032960565,0.7088815789473684,0.8274072216507361,Create Fine,Create Fine
+194,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+195,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9935256032960565,0.7723404255319148,0.869080637714994,Create Fine,Create Fine
+196,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+197,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+198,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+199,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+200,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+201,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+202,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+203,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.7589141004862237,0.6622152476397294,Insert Fine Notification,Payment
+204,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+205,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.8357546408393866,0.7154465088897992,Send Fine,Send Fine
+206,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+207,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+208,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+209,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+210,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+211,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+212,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+213,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+214,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send for Credit Collection,Send for Credit Collection
+215,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+216,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+217,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6255801002413217,0.8024032042723631,0.7030439016702834,Send Fine,Send Fine
+218,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+219,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8641396933560477,0.7258341519440725,Add penalty,Add penalty
+220,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+221,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+222,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+223,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+224,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+225,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+226,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.867103016505407,0.6830230284157841,Insert Fine Notification,Create Fine
+227,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+228,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+229,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8777269054672772,0.6862946977921515,Insert Fine Notification,Create Fine
+230,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+231,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+232,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+233,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+234,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+235,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+236,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+237,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+238,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+239,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+240,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+241,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5873736331751599,0.695496417604913,0.63687862604712,Insert Fine Notification,Payment
+242,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+243,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+244,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+245,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+246,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+247,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5634141017245142,0.9219121140142518,0.6993996067428746,Add penalty,Create Fine
+248,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.6254168210448314,0.9066852367688022,0.7402329310586983,Send Fine,Send Fine
+249,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+250,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+251,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+252,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.8690709525676206,0.7273817852700512,Add penalty,Add penalty
+253,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9371980676328502,0.7037535989588055,Send for Credit Collection,Create Fine
+254,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+255,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+256,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+257,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Insert Fine Notification,Insert Fine Notification
+258,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5634141017245142,0.8563518917256229,0.6796623303594083,Add penalty,Create Fine
+259,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+260,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9935256032960565,0.7723404255319148,0.869080637714994,Create Fine,Create Fine
+261,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+262,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+263,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5634141017245142,0.8563518917256229,0.6796623303594083,Add penalty,Create Fine
+264,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+265,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.867103016505407,0.6830230284157841,Insert Fine Notification,Create Fine
+266,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+267,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+268,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+269,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+270,Road-Traffic-Fine-Management-Process,1-gram,0,10,1.0,0.646147403685092,0.785041974052404,Create Fine,Create Fine
+271,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+272,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Payment,Payment
+273,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.9949808089754946,0.8310165073848828,0.9056371215680529,Create Fine,Create Fine
+274,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+275,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+276,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+277,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+278,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+279,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+280,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+281,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+282,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.8357546408393866,0.7154465088897992,Send Fine,Send Fine
+283,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5873736331751599,0.695496417604913,0.63687862604712,Insert Fine Notification,Payment
+284,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.9996805111821087,0.7245873153779323,0.8401894493133258,Create Fine,Create Fine
+285,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+286,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+287,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+288,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+289,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8737179487179487,0.7297558591792375,Send Fine,Send Fine
+290,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+291,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+292,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+293,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+294,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+295,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+296,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+297,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+298,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+299,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+300,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.9275681630404847,0.7010210593619405,Insert Fine Notification,Create Fine
+301,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+302,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+303,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+304,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Insert Fine Notification,Insert Fine Notification
+305,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5634141017245142,0.9219121140142518,0.6993996067428746,Add penalty,Create Fine
+306,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+307,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+308,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.8684057971014493,0.6834268367236102,Add penalty,Create Fine
+309,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+310,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Payment,Payment
+311,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+312,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8737179487179487,0.7297558591792375,Send Fine,Send Fine
+313,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+314,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+315,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+316,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+317,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+318,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+319,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+320,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.8185572687224669,0.6674330859953712,Add penalty,Create Fine
+321,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+322,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+323,Road-Traffic-Fine-Management-Process,1-gram,0,8,0.5634141017245142,0.8284605433376455,0.6707017108109433,Send Fine,Create Fine
+324,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+325,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+326,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+327,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+328,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5634141017245142,0.9219121140142518,0.6993996067428746,Add penalty,Create Fine
+329,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+330,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+331,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+332,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+333,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+334,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+335,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+336,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+337,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+338,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.5873736331751599,0.695496417604913,0.63687862604712,Insert Fine Notification,Payment
+339,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+340,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+341,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+342,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+343,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+344,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+345,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+346,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+347,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6094085496779231,0.7893719806763285,0.687813453878317,Send Fine,Send Fine
+348,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+349,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5634141017245142,0.6905065985525756,0.6205195509929444,Send Fine,Payment
+350,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+351,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+352,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+353,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+354,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+355,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+356,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+357,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+358,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.6265238271148874,0.8737179487179487,0.7297558591792375,Send Fine,Send Fine
+359,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+360,Road-Traffic-Fine-Management-Process,1-gram,0,5,0.6092986911506153,0.9131661442006269,0.7309080952745067,Add penalty,Create Fine
+361,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+362,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+363,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+364,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+365,Road-Traffic-Fine-Management-Process,1-gram,0,7,0.9935559461042766,0.7817649212742586,0.8750273826665577,Create Fine,Create Fine
+366,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+367,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+368,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9935256032960565,0.7723404255319148,0.869080637714994,Create Fine,Create Fine
+369,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+370,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8942786069651741,0.736255082613136,Send Fine,Send Fine
+371,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.5873736331751599,0.9197799015348972,0.7169202739387481,Insert Fine Notification,Create Fine
+372,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.5634141017245142,0.8800513149454778,0.6870040880166682,Send Fine,Send Fine
+373,Road-Traffic-Fine-Management-Process,1-gram,0,9,0.5873736331751599,0.5667670682730923,0.5768863911269425,Insert Fine Notification,Payment
+374,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+375,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+376,Road-Traffic-Fine-Management-Process,1-gram,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+377,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+378,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+379,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+380,Road-Traffic-Fine-Management-Process,1-gram,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+381,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+382,Road-Traffic-Fine-Management-Process,1-gram,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+383,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6254168210448314,0.8357546408393866,0.7154465088897992,Send Fine,Send Fine
+384,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6256921373200444,0.8302631578947368,0.7136058799451158,Insert Fine Notification,Insert Fine Notification
+385,Road-Traffic-Fine-Management-Process,1-gram,0,6,0.6086105675146771,0.9108200810726536,0.7296611095225397,Add penalty,Create Fine

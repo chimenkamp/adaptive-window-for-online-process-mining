@@ -1,0 +1,321 @@
+,Log Name,Species,Window Counter,Window Size,Precision,Fitness,F1-Score,Start Event,End Event
+0,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,3,1.0,1.0,1.0,Create Fine,Create Fine
+1,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,10,0.6392460806764135,0.8640471512770138,0.734838344553344,Send Fine,Create Fine
+2,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6099415204678362,0.7575116377486246,0.675763988439798,Send Fine,Insert Fine Notification
+3,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.6092986911506153,0.9131661442006269,0.7309080952745067,Add penalty,Create Fine
+4,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+5,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,9,0.6265238271148874,0.9034876728803367,0.7399376469600117,Send Fine,Add penalty
+6,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5650941823637272,0.9515062454077884,0.7090735752366546,Send for Credit Collection,Create Fine
+7,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+8,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+9,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+10,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+11,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+12,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+13,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+14,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.6092986911506153,0.9131661442006269,0.7309080952745067,Add penalty,Create Fine
+15,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6618163572503764,0.9463307776560789,0.7789053307721041,Payment,Create Fine
+16,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+17,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6265238271148874,0.8172606568832984,0.7092932223277644,Send Fine,Insert Fine Notification
+18,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.5798977309044423,0.8641005498821681,0.6940312254069776,Add penalty,Create Fine
+19,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+20,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+21,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+22,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+23,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+24,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6254168210448314,0.8690709525676206,0.7273817852700512,Send Fine,Add penalty
+25,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5650941823637272,0.9515062454077884,0.7090735752366546,Send for Credit Collection,Create Fine
+26,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+27,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.5646429168757316,0.7724372607401107,0.6523935292878258,Add penalty,Create Fine
+28,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+29,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+30,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+31,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+32,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+33,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+34,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+35,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+36,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+37,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8526669153301007,0.6784986994178357,Send Fine,Create Fine
+38,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+39,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.5634141017245142,0.891849935316947,0.6905699823397037,Send Fine,Create Fine
+40,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+41,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,6,0.6086105675146771,0.9117555347676957,0.7299610963656629,Insert Date Appeal to Prefecture,Create Fine
+42,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+43,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+44,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+45,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6265238271148874,0.8741191543882127,0.7298957642985529,Send Fine,Create Fine
+46,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+47,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+48,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,12,0.6173824478017315,0.8480424684804246,0.7145593461841462,Send Fine,Create Fine
+49,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+50,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.8492997198879552,0.7203639698658535,Send for Credit Collection,Create Fine
+51,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+52,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+53,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.5650941823637272,0.9246420497362472,0.7014796738054504,Add penalty,Create Fine
+54,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+55,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.6092986911506153,0.9131661442006269,0.7309080952745067,Add penalty,Create Fine
+56,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+57,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+58,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+59,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Add penalty,Send for Credit Collection
+60,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+61,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+62,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+63,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8526669153301007,0.6784986994178357,Send Fine,Create Fine
+64,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+65,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,9,0.6265238271148874,0.9034876728803367,0.7399376469600117,Send Fine,Add penalty
+66,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.5658048373644704,0.8084496956677407,0.6657060065363016,Send for Credit Collection,Create Fine
+67,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+68,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+69,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+70,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+71,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+72,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+73,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+74,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+75,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+76,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+77,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.62467580585402,0.8984599321326024,0.736961477739827,Payment,Create Fine
+78,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+79,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+80,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+81,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+82,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9371980676328502,0.7037535989588055,Send for Credit Collection,Create Fine
+83,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+84,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+85,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+86,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+87,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,3,0.6254168210448314,0.757703081232493,0.6852337987184619,Payment,Payment
+88,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.9996805111821087,0.7245873153779323,0.8401894493133258,Create Fine,Create Fine
+89,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+90,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+91,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+92,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,12,0.627906976744186,0.844100580270793,0.7201276119813471,Send Fine,Add penalty
+93,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+94,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+95,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+96,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+97,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+98,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+99,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+100,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+101,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+102,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+103,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+104,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6618163572503764,0.9463307776560789,0.7789053307721041,Payment,Create Fine
+105,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+106,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+107,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+108,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+109,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5650941823637272,0.9515062454077884,0.7090735752366546,Send for Credit Collection,Create Fine
+110,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8526669153301007,0.6784986994178357,Send Fine,Create Fine
+111,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+112,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+113,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.6092986911506153,0.9131661442006269,0.7309080952745067,Add penalty,Create Fine
+114,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+115,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+116,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.7718177948063005,0.6909474274075936,Add penalty,Payment
+117,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+118,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+119,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+120,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+121,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+122,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+123,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,11,0.627906976744186,0.8128724672228844,0.7085169010561958,Send Fine,Create Fine
+124,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+125,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+126,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+127,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+128,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+129,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+130,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+131,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+132,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+133,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+134,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+135,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+136,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+137,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+138,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+139,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+140,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.8492997198879552,0.7203639698658535,Send for Credit Collection,Create Fine
+141,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+142,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+143,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+144,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+145,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,9,0.5423620025673941,0.9254843517138599,0.683923824692264,Insert Date Appeal to Prefecture,Create Fine
+146,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6265238271148874,0.8741191543882127,0.7298957642985529,Send Fine,Create Fine
+147,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+148,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5650941823637272,0.9515062454077884,0.7090735752366546,Send for Credit Collection,Create Fine
+149,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+150,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+151,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+152,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+153,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+154,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,6,0.6624437406234372,1.0,0.7969517697784017,Payment,Create Fine
+155,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+156,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5650941823637272,0.9515062454077884,0.7090735752366546,Send for Credit Collection,Create Fine
+157,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+158,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5650941823637272,0.9515062454077884,0.7090735752366546,Send for Credit Collection,Create Fine
+159,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6254168210448314,0.8690709525676206,0.7273817852700512,Send Fine,Add penalty
+160,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9371980676328502,0.7037535989588055,Send for Credit Collection,Create Fine
+161,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6423022598870056,0.8428290766208252,0.7290278069076078,Send Fine,Create Fine
+162,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.836224283985478,0.7156185353173178,Send Fine,Create Fine
+163,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+164,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+165,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+166,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+167,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+168,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+169,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.6090607303261082,0.7301587301587302,0.6641346285148232,Add penalty,Payment
+170,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,6,0.9918080748976009,0.9189298743413052,0.9539791366988635,Create Fine,Create Fine
+171,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6254168210448314,0.8690709525676206,0.7273817852700512,Send Fine,Add penalty
+172,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+173,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+174,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+175,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+176,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+177,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+178,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Add penalty,Send for Credit Collection
+179,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+180,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+181,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6255801002413217,0.7276595744680852,0.672769736277579,Send Fine,Insert Fine Notification
+182,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Add penalty,Send for Credit Collection
+183,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,6,0.9935256032960565,0.7723404255319148,0.869080637714994,Create Fine,Create Fine
+184,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+185,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+186,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+187,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+188,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+189,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.5634141017245142,0.8563518917256229,0.6796623303594083,Add penalty,Create Fine
+190,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+191,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6265238271148874,0.8741191543882127,0.7298957642985529,Send Fine,Create Fine
+192,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+193,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+194,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+195,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+196,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+197,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+198,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+199,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+200,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+201,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8526669153301007,0.6784986994178357,Send Fine,Create Fine
+202,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+203,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Add penalty,Send for Credit Collection
+204,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,3,0.9935256032960565,0.9920454545454546,0.9927849772305214,Create Fine,Create Fine
+205,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+206,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+207,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6423022598870056,0.8428290766208252,0.7290278069076078,Send Fine,Create Fine
+208,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+209,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+210,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.5798977309044423,0.8641005498821681,0.6940312254069776,Add penalty,Create Fine
+211,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+212,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+213,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+214,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6618163572503764,0.9463307776560789,0.7789053307721041,Payment,Create Fine
+215,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+216,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.836224283985478,0.7156185353173178,Send Fine,Create Fine
+217,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+218,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.8492997198879552,0.7203639698658535,Send for Credit Collection,Create Fine
+219,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+220,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.836224283985478,0.7156185353173178,Send Fine,Create Fine
+221,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+222,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+223,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+224,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,11,0.6499824991249563,0.7440776699029126,0.6938545038035598,Payment,Create Fine
+225,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+226,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Payment,Payment
+227,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.9949808089754946,0.8310165073848828,0.9056371215680529,Create Fine,Create Fine
+228,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+229,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+230,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+231,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+232,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+233,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+234,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,6,0.6254168210448314,0.7718177948063005,0.6909474274075936,Payment,Payment
+235,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,6,0.9935256032960565,0.7723404255319148,0.869080637714994,Create Fine,Create Fine
+236,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6099083284571875,0.7396835246664598,0.668556409958276,Payment,Create Fine
+237,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+238,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+239,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+240,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6265238271148874,0.8741191543882127,0.7298957642985529,Send Fine,Create Fine
+241,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+242,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+243,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+244,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+245,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+246,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+247,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+248,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+249,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+250,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+251,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+252,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+253,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+254,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+255,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.5634141017245142,0.9215809284818067,0.6993042810586111,Payment,Create Fine
+256,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+257,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6618163572503764,0.9463307776560789,0.7789053307721041,Payment,Create Fine
+258,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6265238271148874,0.8741191543882127,0.7298957642985529,Send Fine,Create Fine
+259,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+260,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+261,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+262,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+263,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+264,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5650941823637272,0.9515062454077884,0.7090735752366546,Send for Credit Collection,Create Fine
+265,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6265238271148874,0.837932238910234,0.7169686074774745,Send Fine,Create Fine
+266,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+267,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+268,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.5634141017245142,0.8284605433376455,0.6707017108109433,Send Fine,Create Fine
+269,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+270,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.9738360908041555,0.7618766262965087,Send Fine,Create Fine
+271,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6256921373200444,0.8302631578947368,0.7136058799451158,Send Fine,Insert Fine Notification
+272,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.5634141017245142,0.9219121140142518,0.6993996067428746,Add penalty,Create Fine
+273,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+274,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+275,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+276,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+277,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+278,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+279,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+280,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.836224283985478,0.7156185353173178,Send Fine,Create Fine
+281,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+282,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+283,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+284,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+285,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+286,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+287,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6491935483870968,0.8917879703378193,0.7513951203666372,Payment,Create Fine
+288,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+289,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8526669153301007,0.6784986994178357,Send Fine,Create Fine
+290,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+291,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.62467580585402,0.8871148459383753,0.7331162957180644,Payment,Create Fine
+292,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+293,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+294,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+295,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+296,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6265238271148874,0.8741191543882127,0.7298957642985529,Send Fine,Create Fine
+297,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+298,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+299,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+300,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+301,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+302,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9371980676328502,0.7037535989588055,Send for Credit Collection,Create Fine
+303,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.5634141017245142,0.799727055612419,0.6610870755937283,Send Fine,Create Fine
+304,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,1.0,0.7207483943032672,Send Fine,Create Fine
+305,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.836224283985478,0.7156185353173178,Send Fine,Create Fine
+306,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+307,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+308,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9285958319098052,0.7474320780134136,Send for Credit Collection,Create Fine
+309,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,11,0.6103643093707384,0.7155343663090981,0.6587783023455405,Send Fine,Create Fine
+310,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+311,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+312,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.8631191432396251,0.681783615609758,Send Fine,Create Fine
+313,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+314,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.5634141017245142,0.9116465863453815,0.6964249629730006,Payment,Create Fine
+315,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,4,0.6254168210448314,0.9920454545454546,0.7671794562100256,Payment,Create Fine
+316,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.5634141017245142,0.8937110187110187,0.6911271842707163,Send Fine,Create Fine
+317,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,7,0.6254168210448314,0.836224283985478,0.7156185353173178,Send Fine,Create Fine
+318,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,8,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send Fine,Add penalty
+319,Road-Traffic-Fine-Management-Process,timed_activity_exponential,0,5,0.6270743986574678,0.9901494565217391,0.7678558203812613,Insert Date Appeal to Prefecture,Create Fine

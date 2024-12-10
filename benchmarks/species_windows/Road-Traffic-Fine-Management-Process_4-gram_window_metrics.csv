@@ -1,0 +1,127 @@
+,Log Name,Species,Window Counter,Window Size,Precision,Fitness,F1-Score,Start Event,End Event
+0,Road-Traffic-Fine-Management-Process,4-gram,0,11,0.9918080748976009,0.9245967741935484,0.9570238220847029,Create Fine,Add penalty
+1,Road-Traffic-Fine-Management-Process,4-gram,0,20,0.4978196817913966,0.9243281471004243,0.6471180206616436,Payment,Add penalty
+2,Road-Traffic-Fine-Management-Process,4-gram,0,11,0.6265238271148874,0.8679631525076765,0.7277408281484661,Send for Credit Collection,Add penalty
+3,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+4,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+5,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.62467580585402,0.8901895206243032,0.7341640823630634,Payment,Add penalty
+6,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+7,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+8,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.6618163572503764,0.90945194598888,0.7661201753358058,Send for Credit Collection,Add penalty
+9,Road-Traffic-Fine-Management-Process,4-gram,0,13,0.6265238271148874,0.9071051368218915,0.7411479507512133,Send for Credit Collection,Add penalty
+10,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.62467580585402,0.9310972438897556,0.747710498328893,Payment,Add penalty
+11,Road-Traffic-Fine-Management-Process,4-gram,0,24,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+12,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.62467580585402,0.8901895206243032,0.7341640823630634,Payment,Add penalty
+13,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+14,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6254168210448314,0.8690709525676206,0.7273817852700512,Payment,Add penalty
+15,Road-Traffic-Fine-Management-Process,4-gram,0,20,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+16,Road-Traffic-Fine-Management-Process,4-gram,0,18,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+17,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+18,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.6762209767814251,0.9496040316774658,0.7899277751486893,Send for Credit Collection,Add penalty
+19,Road-Traffic-Fine-Management-Process,4-gram,0,13,0.6638655462184874,0.8858093126385809,0.7589440840692803,Send for Credit Collection,Add penalty
+20,Road-Traffic-Fine-Management-Process,4-gram,0,30,0.29790535298681153,0.9727979274611399,0.456128058256036,Send for Credit Collection,Add penalty
+21,Road-Traffic-Fine-Management-Process,4-gram,0,11,0.62467580585402,0.9012730579371265,0.7379060820722868,Payment,Add penalty
+22,Road-Traffic-Fine-Management-Process,4-gram,0,19,0.4814854452054794,0.940625,0.636936812359838,Payment,Add penalty
+23,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+24,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.49542549191628027,0.9185591229444009,0.6436811271581696,Payment,Add penalty
+25,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+26,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+27,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+28,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+29,Road-Traffic-Fine-Management-Process,4-gram,0,20,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+30,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.49542549191628027,0.9705553484904957,0.6559947411378981,Payment,Add penalty
+31,Road-Traffic-Fine-Management-Process,4-gram,0,11,0.62467580585402,0.9012730579371265,0.7379060820722868,Payment,Add penalty
+32,Road-Traffic-Fine-Management-Process,4-gram,0,19,0.4794420861127956,0.9741745668519124,0.642618238607713,Payment,Add penalty
+33,Road-Traffic-Fine-Management-Process,4-gram,0,24,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+34,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+35,Road-Traffic-Fine-Management-Process,4-gram,0,11,0.6265238271148874,0.8679631525076765,0.7277408281484661,Send for Credit Collection,Add penalty
+36,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+37,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+38,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+39,Road-Traffic-Fine-Management-Process,4-gram,0,32,0.29790535298681153,0.9727979274611399,0.456128058256036,Send for Credit Collection,Add penalty
+40,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+41,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.627906976744186,0.8347153123272526,0.7166902516414264,Send for Credit Collection,Add penalty
+42,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.62467580585402,0.9310972438897556,0.747710498328893,Payment,Add penalty
+43,Road-Traffic-Fine-Management-Process,4-gram,0,18,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+44,Road-Traffic-Fine-Management-Process,4-gram,0,34,0.6762209767814251,0.9496040316774658,0.7899277751486893,Send for Credit Collection,Add penalty
+45,Road-Traffic-Fine-Management-Process,4-gram,0,18,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+46,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+47,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.49542549191628027,0.9185591229444009,0.6436811271581696,Payment,Add penalty
+48,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+49,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6254168210448314,0.8690709525676206,0.7273817852700512,Payment,Add penalty
+50,Road-Traffic-Fine-Management-Process,4-gram,0,18,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+51,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+52,Road-Traffic-Fine-Management-Process,4-gram,0,22,0.3747268408551069,0.9805439218962517,0.5422327940225327,Insert Date Appeal to Prefecture,Add penalty
+53,Road-Traffic-Fine-Management-Process,4-gram,0,26,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+54,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+55,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+56,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.6762209767814251,0.9496040316774658,0.7899277751486893,Send for Credit Collection,Add penalty
+57,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+58,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.62467580585402,0.9310972438897556,0.747710498328893,Payment,Add penalty
+59,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+60,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.4610348734734987,0.8758119984715322,0.6040779723924846,Send for Credit Collection,Add penalty
+61,Road-Traffic-Fine-Management-Process,4-gram,0,13,0.62467580585402,0.9388848307767227,0.7502090095250646,Payment,Add penalty
+62,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+63,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+64,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+65,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.6440140845070422,0.9107184375726576,0.7544905538252741,Send for Credit Collection,Add penalty
+66,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+67,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+68,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+69,Road-Traffic-Fine-Management-Process,4-gram,0,15,0.4746868475991649,0.902348117778606,0.6221087978660864,Payment,Add penalty
+70,Road-Traffic-Fine-Management-Process,4-gram,0,18,0.6762209767814251,0.9496040316774658,0.7899277751486893,Send for Credit Collection,Add penalty
+71,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+72,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+73,Road-Traffic-Fine-Management-Process,4-gram,0,13,0.6627189324437031,0.9231846836329676,0.7715626117294128,Send for Credit Collection,Add penalty
+74,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6254168210448314,0.8525641025641025,0.7215356061032148,Send for Credit Collection,Add penalty
+75,Road-Traffic-Fine-Management-Process,4-gram,0,18,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+76,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+77,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+78,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+79,Road-Traffic-Fine-Management-Process,4-gram,0,11,0.6281360341943877,0.8958852867830424,0.738490759134643,Insert Date Appeal to Prefecture,Add penalty
+80,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.6762209767814251,0.9496040316774658,0.7899277751486893,Send for Credit Collection,Add penalty
+81,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+82,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+83,Road-Traffic-Fine-Management-Process,4-gram,0,23,0.6770483948251078,0.9995114802149487,0.8072692820143156,Payment,Add penalty
+84,Road-Traffic-Fine-Management-Process,4-gram,0,28,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+85,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+86,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.49542549191628027,0.9185591229444009,0.6436811271581696,Payment,Add penalty
+87,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+88,Road-Traffic-Fine-Management-Process,4-gram,0,15,0.3663645518630413,0.902348117778606,0.5211398478235324,Send for Credit Collection,Add penalty
+89,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+90,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6254168210448314,0.8525641025641025,0.7215356061032148,Send for Credit Collection,Add penalty
+91,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+92,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+93,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.6430084745762712,0.9281650071123755,0.7597098249608462,Payment,Add penalty
+94,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.6254168210448314,0.8959958398335933,0.7366454667132534,Send for Credit Collection,Add penalty
+95,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+96,Road-Traffic-Fine-Management-Process,4-gram,0,39,0.6653840461743377,0.9912181303116148,0.7962572300697407,Payment,Add penalty
+97,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.6618163572503764,0.90945194598888,0.7661201753358058,Send for Credit Collection,Add penalty
+98,Road-Traffic-Fine-Management-Process,4-gram,0,35,0.6635262449528937,0.9756854630108639,0.7898832205522993,Insert Date Appeal to Prefecture,Add penalty
+99,Road-Traffic-Fine-Management-Process,4-gram,0,18,0.46591661151555264,0.94789246598075,0.6247503327860437,Payment,Add penalty
+100,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+101,Road-Traffic-Fine-Management-Process,4-gram,0,15,0.6265238271148874,0.9071051368218915,0.7411479507512133,Send for Credit Collection,Add penalty
+102,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+103,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+104,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+105,Road-Traffic-Fine-Management-Process,4-gram,0,22,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+106,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6254168210448314,0.8525641025641025,0.7215356061032148,Send for Credit Collection,Add penalty
+107,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+108,Road-Traffic-Fine-Management-Process,4-gram,0,13,0.6265238271148874,0.9071051368218915,0.7411479507512133,Send for Credit Collection,Add penalty
+109,Road-Traffic-Fine-Management-Process,4-gram,0,16,0.6762209767814251,0.9496040316774658,0.7899277751486893,Send for Credit Collection,Add penalty
+110,Road-Traffic-Fine-Management-Process,4-gram,0,21,0.49542549191628027,0.9824845055241175,0.6586975800859473,Payment,Add penalty
+111,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.37433712121212126,0.9190140845070423,0.5319840198493767,Send for Credit Collection,Add penalty
+112,Road-Traffic-Fine-Management-Process,4-gram,0,10,0.6256921373200444,0.8641396933560477,0.7258341519440725,Send for Credit Collection,Add penalty
+113,Road-Traffic-Fine-Management-Process,4-gram,0,27,0.33521933036011453,0.9963031423290203,0.5016514239263389,Payment,Add penalty
+114,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+115,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+116,Road-Traffic-Fine-Management-Process,4-gram,0,30,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+117,Road-Traffic-Fine-Management-Process,4-gram,0,26,0.6762209767814251,0.9496040316774658,0.7899277751486893,Send for Credit Collection,Add penalty
+118,Road-Traffic-Fine-Management-Process,4-gram,0,38,0.6111562415380449,0.9509357213056027,0.7440923008392333,Send for Credit Collection,Add penalty
+119,Road-Traffic-Fine-Management-Process,4-gram,0,20,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+120,Road-Traffic-Fine-Management-Process,4-gram,0,15,0.6770483948251078,0.9578699743370402,0.7933415402365461,Send for Credit Collection,Add penalty
+121,Road-Traffic-Fine-Management-Process,4-gram,0,20,0.3651394790319601,0.9722814498933902,0.5308999349543259,Send for Credit Collection,Add penalty
+122,Road-Traffic-Fine-Management-Process,4-gram,0,12,0.5964109781843772,0.928407350689127,0.7262666321530074,Send for Credit Collection,Add penalty
+123,Road-Traffic-Fine-Management-Process,4-gram,0,23,0.6770483948251078,0.9363076923076923,0.7858471235149512,Payment,Add penalty
+124,Road-Traffic-Fine-Management-Process,4-gram,0,47,0.3735840151038389,0.9903682719546743,0.5425200851654213,Send for Credit Collection,Add penalty
+125,Road-Traffic-Fine-Management-Process,4-gram,0,14,0.6762209767814251,0.9496040316774658,0.7899277751486893,Send for Credit Collection,Add penalty

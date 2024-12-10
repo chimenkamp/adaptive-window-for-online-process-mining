@@ -1,0 +1,80 @@
+,Log Name,Species,Window Counter,Window Size,Precision,Fitness,F1-Score,Start Event,End Event
+0,"synthetic, online order",4-gram,0,24,0.9970873786407767,0.9489120151371807,0.9724033797328366,Open online store,Select article
+1,"synthetic, online order",4-gram,0,33,0.6531308650400955,0.9746192893401016,0.7821273281019544,Add to shopping cart ,Enter login data
+2,"synthetic, online order",4-gram,0,25,0.4376357608322854,0.9728721600542557,0.60370259770011,Determine that login data is incorrect,Enter credit card details
+3,"synthetic, online order",4-gram,0,25,0.4210166712216452,0.9535240173944223,0.5841216794207559,Check credit card details,Finalize order
+4,"synthetic, online order",4-gram,0,33,0.9764222366428726,0.9956140350877193,0.9859247488589747,Open online store,Finalize order
+5,"synthetic, online order",4-gram,0,16,0.9713687150837989,0.8522789676002196,0.9079353797465027,Open online store,Add to shopping cart 
+6,"synthetic, online order",4-gram,0,48,0.6053045186640471,0.9515042658284688,0.7399108193262608,Enter login data,Determine that login data is correct
+7,"synthetic, online order",4-gram,0,31,0.43130947594156277,0.9476670126780412,0.5928132437042937,Enter address and shipping methods,Mark credit card details as incorrect
+8,"synthetic, online order",4-gram,0,25,0.5465543313890688,0.8720224194301728,0.6719518420595724,Enter credit card details,Select article
+9,"synthetic, online order",4-gram,0,23,0.588307190873905,0.9023696682464455,0.712254384855952,Add to shopping cart ,Enter login data
+10,"synthetic, online order",4-gram,0,29,0.5795454545454546,0.9112970711297071,0.7085095390267706,Determine that login data is correct,Determine that login data is correct
+11,"synthetic, online order",4-gram,0,26,0.3950957632037144,0.9195143884892086,0.552705665065946,Enter address and shipping methods,Select article
+12,"synthetic, online order",4-gram,0,19,0.5835406301824213,0.8696682464454977,0.698436081340266,Add to shopping cart ,Enter login data
+13,"synthetic, online order",4-gram,0,25,0.42379642365887205,0.9560260586319218,0.587264564497086,Determine that login data is incorrect,Determine that login data is correct
+14,"synthetic, online order",4-gram,0,29,0.6302271978926572,0.976685036032217,0.766107146970729,Enter address and shipping methods,Mark credit card details as incorrect
+15,"synthetic, online order",4-gram,0,22,0.6053045186640471,0.9502991256327658,0.7395461651647465,Enter credit card details,Confirm order
+16,"synthetic, online order",4-gram,0,26,0.559577922077922,0.8695652173913043,0.6809527807547375,Finalize order,Determine that login data is incorrect
+17,"synthetic, online order",4-gram,0,30,0.6182502351834431,0.8951219512195122,0.7313592278640879,Enter login data,Determine that login data is correct
+18,"synthetic, online order",4-gram,0,32,0.4283139212423738,0.9237403540626419,0.5852588324076448,Enter credit card details,Confirm order
+19,"synthetic, online order",4-gram,0,17,0.5561442836763807,0.8182317408017573,0.6621985501271523,Finalize order,Add to shopping cart 
+20,"synthetic, online order",4-gram,0,28,0.5638258280610347,0.9037426935152553,0.6944186455812585,Enter login data,Enter credit card details
+21,"synthetic, online order",4-gram,0,19,0.326608505997819,0.8932806324110671,0.47832715875985593,Check credit card details,Confirm order
+22,"synthetic, online order",4-gram,0,26,0.5856636471051595,0.9390840373499333,0.7214142875700142,Finalize order,Select article
+23,"synthetic, online order",4-gram,0,31,0.6053045186640471,0.9515042658284688,0.7399108193262608,Add to shopping cart ,Enter login data
+24,"synthetic, online order",4-gram,0,22,0.3863247863247863,0.8560576870149172,0.5323904837915421,Determine that login data is incorrect,Determine that login data is incorrect
+25,"synthetic, online order",4-gram,0,21,0.5835406301824213,0.8696682464454977,0.698436081340266,Enter login data,Determine that login data is correct
+26,"synthetic, online order",4-gram,0,25,0.4271870436744989,0.9417744916820703,0.5877650328647519,Enter address and shipping methods,Add to shopping cart 
+27,"synthetic, online order",4-gram,0,23,0.588307190873905,0.9023696682464455,0.712254384855952,Enter login data,Enter credit card details
+28,"synthetic, online order",4-gram,0,19,0.588307190873905,0.8968452679018528,0.7105270803548647,Check credit card details,Finalize order
+29,"synthetic, online order",4-gram,0,28,0.9872241579558653,0.9251760563380281,0.9551935273302322,Open online store,Check credit card details
+30,"synthetic, online order",4-gram,0,28,0.4149779735682819,0.952254408455147,0.5780503884165733,Enter address and shipping methods,Determine that login data is incorrect
+31,"synthetic, online order",4-gram,0,16,0.5719572368421053,0.8522789676002196,0.6845312902548167,Enter login data,Enter credit card details
+32,"synthetic, online order",4-gram,0,20,0.29277828886844526,0.8082861581299383,0.4298542904340645,Check credit card details,Check credit card details
+33,"synthetic, online order",4-gram,0,25,0.5781944712932534,0.9210161662817552,0.7104091205985393,Show credit card details as verified,Add to shopping cart 
+34,"synthetic, online order",4-gram,0,25,0.5611678309152786,0.9092530061997548,0.694010210360472,Enter login data,Enter credit card details
+35,"synthetic, online order",4-gram,0,25,0.4100068540095956,0.9240570374346729,0.5679933641466749,Check credit card details,Finalize order
+36,"synthetic, online order",4-gram,0,23,0.9874055415617129,0.9253658536585366,0.9553795860369535,Open online store,Enter credit card details
+37,"synthetic, online order",4-gram,0,27,0.3433019254403933,0.9695568400770713,0.5070625093342292,Check credit card details,Finalize order
+38,"synthetic, online order",4-gram,0,47,0.8722886232846392,0.9705882352941176,0.9188167636918555,Open online store,Enter credit card details
+39,"synthetic, online order",4-gram,0,23,0.45866283249460815,0.9733596989920628,0.6235152125886143,Check credit card details,Finalize order
+40,"synthetic, online order",4-gram,0,23,0.9004594180704442,0.9360367892976589,0.9179034938399471,Open online store,Determine that login data is incorrect
+41,"synthetic, online order",4-gram,0,33,0.6352357320099256,0.8996868245622668,0.744680200487518,Enter login data,Determine that login data is correct
+42,"synthetic, online order",4-gram,0,27,0.45515755453810935,0.9730769230769231,0.6202109242240836,Enter address and shipping methods,Confirm order
+43,"synthetic, online order",4-gram,0,27,0.5541861453463663,0.8878878878878879,0.68242705263161,Finalize order,Select article
+44,"synthetic, online order",4-gram,0,22,0.5864090606262491,0.9930204537618768,0.7373753449184394,Add to shopping cart ,Enter address and shipping methods
+45,"synthetic, online order",4-gram,0,31,0.3868899646735575,0.9161707584283652,0.5440379962025326,Check credit card details,Determine that login data is incorrect
+46,"synthetic, online order",4-gram,0,20,0.6223632630203473,0.8478048780487805,0.7177989994032891,Enter login data,Enter address and shipping methods
+47,"synthetic, online order",4-gram,0,17,0.55298230281844,0.8288144603934078,0.6633677847851535,Check credit card details,Finalize order
+48,"synthetic, online order",4-gram,0,17,0.9847358121330724,0.7442849548112707,0.8477909154668892,Open online store,Select article
+49,"synthetic, online order",4-gram,0,22,0.5864090606262491,0.9930204537618768,0.7373753449184394,Add to shopping cart ,Enter address and shipping methods
+50,"synthetic, online order",4-gram,0,16,0.5719572368421053,0.8522789676002196,0.6845312902548167,Check credit card details,Finalize order
+51,"synthetic, online order",4-gram,0,25,0.9874055415617129,0.9253658536585366,0.9553795860369535,Open online store,Enter credit card details
+52,"synthetic, online order",4-gram,0,19,0.588307190873905,0.8968452679018528,0.7105270803548647,Check credit card details,Finalize order
+53,"synthetic, online order",4-gram,0,23,0.9874055415617129,0.9253658536585366,0.9553795860369535,Open online store,Enter credit card details
+54,"synthetic, online order",4-gram,0,19,0.3852446599000151,0.846168045930908,0.5294434912508874,Check credit card details,Confirm order
+55,"synthetic, online order",4-gram,0,17,0.5564828007327498,0.7649643053267435,0.6442777423883412,Finalize order,Add to shopping cart 
+56,"synthetic, online order",4-gram,0,29,0.6063689466742039,0.9385665529010239,0.7367525857522316,Enter login data,Finalize order
+57,"synthetic, online order",4-gram,0,24,0.9931486446231754,0.8478048780487805,0.9147392969671405,Open online store,Add to shopping cart 
+58,"synthetic, online order",4-gram,0,29,0.6531308650400955,0.9746192893401016,0.7821273281019544,Enter login data,Determine that login data is correct
+59,"synthetic, online order",4-gram,0,22,0.33149931224209084,0.9092530061997548,0.4858612661514841,Enter credit card details,Mark credit card details as incorrect
+60,"synthetic, online order",4-gram,0,36,0.5234961320863641,0.9958368026644463,0.6862442094952572,Enter credit card details,Confirm order
+61,"synthetic, online order",4-gram,0,26,0.5942944667815432,0.916626036079961,0.7210780187555019,Finalize order,Determine that login data is correct
+62,"synthetic, online order",4-gram,0,24,0.45515755453810935,0.9723337041306372,0.6200598823698729,Enter address and shipping methods,Check credit card details
+63,"synthetic, online order",4-gram,0,21,0.2944520236471123,0.8642571153361112,0.43925131510647075,Mark credit card details as incorrect,Enter credit card details
+64,"synthetic, online order",4-gram,0,26,0.45866283249460815,0.9733596989920628,0.6235152125886143,Check credit card details,Finalize order
+65,"synthetic, online order",4-gram,0,33,0.9840746842394289,0.8946109205051463,0.9372126521754451,Open online store,Select article
+66,"synthetic, online order",4-gram,0,24,0.5976580796252927,0.969313387034906,0.7394110100614825,Add to shopping cart ,Enter credit card details
+67,"synthetic, online order",4-gram,0,20,0.38751857355126296,0.9044868066679461,0.5425758166060124,Check credit card details,Finalize order
+68,"synthetic, online order",4-gram,0,33,0.9764222366428726,0.9956140350877193,0.9859247488589747,Open online store,Finalize order
+69,"synthetic, online order",4-gram,0,20,0.9856386999244142,0.8878878878878879,0.9342132310151414,Open online store,Select article
+70,"synthetic, online order",4-gram,0,28,0.5864090606262491,0.9930204537618768,0.7373753449184394,Add to shopping cart ,Enter address and shipping methods
+71,"synthetic, online order",4-gram,0,17,0.5523600439077936,0.7442849548112707,0.6341184683943503,Check credit card details,Finalize order
+72,"synthetic, online order",4-gram,0,23,0.9004594180704442,0.9360367892976589,0.9179034938399471,Open online store,Determine that login data is incorrect
+73,"synthetic, online order",4-gram,0,31,0.6309544891092616,0.9635099913119027,0.7625518934850036,Enter login data,Finalize order
+74,"synthetic, online order",4-gram,0,21,0.8915223336371924,0.8490414436729395,0.8697634859295583,Open online store,Determine that login data is incorrect
+75,"synthetic, online order",4-gram,0,29,0.6514295212765957,0.9506069485140226,0.7730828118708557,Enter login data,Determine that login data is correct
+76,"synthetic, online order",4-gram,0,31,0.40209686946249257,0.9195143884892086,0.5595198358256435,Enter credit card details,Finalize order
+77,"synthetic, online order",4-gram,0,16,0.9713687150837989,0.8522789676002196,0.9079353797465027,Open online store,Add to shopping cart 
+78,"synthetic, online order",4-gram,0,27,0.6053045186640471,0.9515042658284688,0.7399108193262608,Enter login data,Determine that login data is correct
