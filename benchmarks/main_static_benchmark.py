@@ -49,7 +49,7 @@ def on_full_completeness(window: List[Dict[str, Any]], window_counter: int) -> N
         conformance_metrics.append((len(window), None, (e_1, e_2)))
 
 
-window = WindowEstimator(
+window = WindowEstimator[Dict](
     completeness_threshold=COMPLETENESS_THRESHOLD,
     on_full_completeness=on_full_completeness)
 

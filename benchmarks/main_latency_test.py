@@ -8,56 +8,39 @@ import perfplot
 from matplotlib import pyplot as plt
 from pm4py.objects.log.obj import EventLog
 
-from src.completeness.species_estimator import SpeciesEstimator
-from src.completeness.species_retrieval import retrieve_species_n_gram
+from src.clean_window_estimator import WindowEstimatorClean
 from src.utils.plotter import Plotter
+from src.window_estimator import WindowEstimatorDebug
+import pstats
 
 plt.rcParams["figure.autolayout"] = True
 plt.style.use('seaborn-v0_8-darkgrid')
 
+window = WindowEstimatorClean[Dict[str, Any]](
+    initial_data=[],
+    on_full_completeness=lambda x, y: None,
+)
 
 # Function to calculate completeness
 def get_completeness(events: List[Dict[str, Any]]) -> float:
-    estimator = SpeciesEstimator(partial(retrieve_species_n_gram, n=1), quantify_all=True)
-    estimator.profile_log(events)
-    estimated: float = getattr(estimator, "completeness_incidence")[0]
-    return estimated
+    for event in events:
+        window.add_event(event)
+    return window.get_metrics()
 
 
 # Constants
 DATA_PATH: str = "data/"
-# LOG_NAME: str = "Community/sepsis/Sepsis Cases - Event Log.feather"
-# LOG_NAME: str = "Community/daily_living/activity_log.feather"
-# LOG_NAME: str = "Synthetic/synthetic, online order/online_order.feather"
-# LOG_NAME: str = "Community/bpi-c-2012/BPI_Challenge_2012.feather"
-LOG_NAME: str = "sepsis/Sepsis Cases - Event Log.feather"
+LOG_NAME: str = "/Users/christianimenkamp/Documents/Data-Repository/Community/sepsis/Sepsis Cases - Event Log.feather"
 
 if __name__ == "__main__":
-    df_log: pd.DataFrame = pd.read_feather(DATA_PATH + LOG_NAME)
-    event_log: List[Dict[str, Any]] = df_log.to_dict(orient='records')
+    p = pstats.Stats('../profile_stats.prof')
 
-    # perfplot.show(
-    #     setup=lambda n: event_log[:n],
-    #     kernels=[get_completeness],
-    #     n_range=range(1, min(100, len(event_log))),
-    #     xlabel='Number of Events',
-    #     equality_check=None,
-    #     title='Completeness Estimation Performance',
-    #     time_unit='ms',
-    #     logx=True,
-    #     logy=True,
-    # )
+    # Make the output more readable
+    p.strip_dirs()
 
-    g = perfplot.bench(
-        setup=lambda n: event_log[:n],
-        kernels=[get_completeness],
-        n_range=list(range(1, min(550, len(event_log)))),
-        equality_check=None,
-    )
+    # Sort the statistics by cumulative time spent in a function
+    p.sort_stats(pstats.SortKey.CUMULATIVE)
 
-    n = list(g.n_range)
-    t = list(g.timings_s)[0]
-
-    plotter = Plotter(n, "")
-    plotter.add_subplot([("Runtime [s]", t)])
-    plotter.plot(x_label="Number of Events", y_label="Runtime [S]", font_size=28)
+    # Print the statistics (top 10 functions)
+    p.print_stats(10)
+    p.

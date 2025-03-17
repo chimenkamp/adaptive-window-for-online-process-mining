@@ -57,7 +57,7 @@ class Plotter:
         self.color_iterator: ColorIterator = ColorIterator()
         self.title: str = title
         self.y_axis_start_at_zero: bool = y_axis_start_at_zero
-        self.DEFAULT_COLOR: str = "#0000FF"
+        self.DEFAULT_COLOR: str = "#445469"
         self.DEFAULT_THICKNESS: float = 2.0
         self.columns: int = columns if columns else 1
 

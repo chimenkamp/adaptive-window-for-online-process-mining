@@ -164,4 +164,3 @@ class TimeBasedTumblingWindow(TumblingWindow):
 
     def get_window(self) -> List[Dict[str, Any]]:
         return list(self.memory)
-

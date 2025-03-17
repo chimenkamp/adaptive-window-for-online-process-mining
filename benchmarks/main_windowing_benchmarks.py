@@ -3,12 +3,12 @@ from typing import List, Dict, Any
 
 import pandas as pd
 
-from src.estimator_accumulative import WindowEstimator, SpeciesRetrievalRepository
 from src.utils.methods import ConformanceMetrics, calculate_conformance_metrics, group_traces_by_case_id, \
     group_traces_by_case_id_dataframe
 from src.utils.plotter import Plotter
 from src.utils.windowing_baseline import (TimeBasedTumblingWindow, AbstractWindow, LandmarkWindow, LossyCounting,
                                           TimeBasedSlidingWindow, LossyCountingWithBudget)
+from src.window_estimator import SpeciesRetrievalRepository, WindowEstimatorDebug
 
 conformance_metrics: List[tuple[int, ConformanceMetrics, tuple[str, str]]] = []
 
@@ -68,7 +68,7 @@ repository = SpeciesRetrievalRepository()
 for species in repository.get_all():
     print("Species: ", species)
     conformance_metrics.clear()
-    window: WindowEstimator = WindowEstimator(
+    window: WindowEstimatorDebug = WindowEstimatorDebug[Dict](
         on_full_completeness=on_window,
         species=species
     )
